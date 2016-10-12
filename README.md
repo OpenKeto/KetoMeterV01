@@ -1,6 +1,6 @@
 # KetoMeterV01
 
-This is a very simple test Keto Meter.
+This is a very simple Ketone Level Test Meter.
 
 # Hardware
 
