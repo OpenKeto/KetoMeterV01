@@ -8,7 +8,7 @@ This meter is based on an Arduino and a MQ3 Alcohol Sensor.
 
 The MQ3 sensor is a couple of dollars shipped from China and can be found on ebay.
 
-![Image of KetoMeterV01](https://OpenKeto.github.com/KetoMeterV01/Pics/KetoMeterV01-Tare-640px.jpg)
+![Image of KetoMeterV01](https://github.com/OpenKeto/KetoMeterV01/blob/master/Pics/KetoMeterV01-Tare-640px.jpg)
 
 # Software
 
