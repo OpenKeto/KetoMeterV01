@@ -4,7 +4,7 @@ This is a very simple test Keto Meter.
 
 # Hardware
 
-This meter is based on an Arduino and a MQ3 Alcohol Sensor.
+This meter is based on an Arduino Clone with TFT display and a MQ3 Alcohol Sensor.
 
 The MQ3 sensor is a couple of dollars shipped from China and can be found on ebay.
 
